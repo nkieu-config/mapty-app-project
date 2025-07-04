@@ -10,6 +10,12 @@ An interactive workout tracking application that leverages **geolocation**, **ob
 
 ---
 
+## 📸 Screenshots
+
+<img src="public/screenshot.png" alt="Mapty App Screenshot" width="100%">
+
+---
+
 ## ✨ Features
 
 - 🌍 **Map Integration (Leaflet.js)**  
